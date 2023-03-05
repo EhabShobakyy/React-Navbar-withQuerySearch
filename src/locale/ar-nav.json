@@ -1,0 +1,17 @@
+{
+"InvestorRelations" : "علاقات المستثمرين",
+"header" : 
+{
+ "Overview" : "معلومات الشركه",
+ "Profile" : "ملف الشركه",
+ "Chart" : "شارت",
+ "Organizational Structure" : "الهيكل التنظيمي",
+ "Major Shareholders" : "كبار المساهمين",
+ "Financial Reports" : "قائمه التقارير",
+ "FinancialRatios" : "المؤشرات المالية",
+ "Corporate Actions" : "اجرائات الشركة",
+ "Corporate Governance" : "حكومة الشركات",
+ "Projects" : "المشاريع",
+ "Disclosures":"الأخبار الصحفيه"
+}
+}

@@ -1,0 +1,16 @@
+{
+"InvestorRelations" : "Investor Relations",
+"header":{
+ "Overview" : "Overview",
+ "Profile" : "Profile",
+ "Chart" : "Chart",
+ "Organizational Structure" : "Organizational Structure",
+ "Major Shareholders" : "Major Shareholders",
+ "Financial Reports" : "Financial Reports",
+ "FinancialRatios" : "FinancialRatios",
+ "Corporate Actions" : "Corporate Actions",
+ "Corporate Governance" : "Corporate Governance",
+ "Projects" : "Projects",
+ "Disclosures":"Disclosures"
+}
+}
